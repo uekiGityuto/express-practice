@@ -1,0 +1,11 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "jest.jestCommandLine": "yarn run test",
+    "jest.autoRun": {
+      "watch": false
+      // テストファイルを保存したときにのみテストを走らせるように。
+      // "onSave": "test-file"
+    }
+  }
+  
